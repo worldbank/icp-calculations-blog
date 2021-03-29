@@ -1,6 +1,6 @@
 ## About
 
-This repository contains a Jupyter notebook with the entire set of formulas and calculations steps featured in the World Bank blog ['Demystifying ICP Purchasing Power Parity (PPP) Calculations']() by William Vigil-Oliver and Shriya Chauhan. 
+This repository contains a Jupyter notebook with the entire set of formulas and calculation steps featured in the World Bank blog ['Demystifying ICP Purchasing Power Parity (PPP) Calculations']() by William Vigil-Oliver and Shriya Chauhan. 
 
 ## Requirements
 
