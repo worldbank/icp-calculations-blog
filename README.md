@@ -14,4 +14,4 @@ Libraries: ``numpy``, ``pandas`` and ``statsmodels``
 
 In published or academic work, please cite the code set as:
 
-*Vigil-Oliver and Chauhan (2021). Demystifying ICP Purchasing Power Parity calculations using Python? [Blog post]. World Bank Data Blogs. Available at https://blogs.worldbank.org/opendata*
+*Vigil-Oliver and Chauhan (2021). Demystifying ICP Purchasing Power Parity calculations using Python? [Blog post]. World Bank Data Blogs. Available at https://blogs.worldbank.org/opendata/demystifying-icp-purchasing-power-parity-calculations-using-python*
